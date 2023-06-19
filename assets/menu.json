@@ -1,0 +1,68 @@
+[
+  {
+    "imagem": "assets/images/hamburger1.jpg",
+    "nome": "Hambúrguer Tradicional",
+    "descricao": "Pão, carne, queijo, alface, tomate, cebola, maionese e ketchup",
+    "preco": 15.99
+  },
+  {
+    "imagem": "assets/images/hamburger2.jpg",
+    "nome": "Hambúrguer de Frango",
+    "descricao": "Pão, frango grelhado, queijo cheddar, alface, tomate, cebola roxa e molho especial",
+    "preco": 16.99
+  },
+  {
+    "imagem": "assets/images/hamburger3.jpg",
+    "nome": "Hambúrguer Vegetariano",
+    "descricao": "Pão, hambúrguer de soja, queijo muçarela, alface, tomate, cebola caramelizada e maionese vegana",
+    "preco": 14.99
+  },
+  {
+    "imagem": "assets/images/hamburger4.jpg",
+    "nome": "Hambúrguer Picante",
+    "descricao": "Pão, carne, queijo pepper jack, jalapeños, pimentão, cebola roxa, maionese picante e molho barbecue",
+    "preco": 17.99
+  },
+  {
+    "imagem": "assets/images/hamburger5.jpg",
+    "nome": "Hambúrguer de Cordeiro",
+    "descricao": "Pão, cordeiro temperado, queijo feta, rúcula, tomate seco, cebola caramelizada e molho de hortelã",
+    "preco": 18.99
+  },
+  {
+    "imagem": "assets/images/hamburger6.jpg",
+    "nome": "Hambúrguer Ranch",
+    "descricao": "Pão, carne, queijo cheddar, bacon, cebola frita, alface, tomate e molho ranch",
+    "preco": 16.99
+  },
+  {
+    "imagem": "assets/images/hamburger7.jpg",
+    "nome": "Hambúrguer com Ovo",
+    "descricao": "Pão, carne, queijo prato, ovo frito, bacon, alface, tomate e maionese",
+    "preco": 16.99
+  },
+  {
+    "imagem": "assets/images/hamburger8.jpg",
+    "nome": "Hambúrguer de Picanha",
+    "descricao": "Pão, picanha, queijo provolone, cebola caramelizada, alface, tomate e molho barbecue",
+    "preco": 19.99
+  },
+  {
+    "imagem": "assets/images/cocacola.jpg",
+    "nome": "Coca-Cola",
+    "descricao": "Lata de Coca-Cola",
+    "preco": 4.99
+  },
+  {
+    "imagem": "assets/images/pepsi.jpg",
+    "nome": "Pepsi",
+    "descricao": "Lata de Pepsi",
+    "preco": 3.99
+  },
+  {
+    "imagem": "assets/images/suco_laranja.jpg",
+    "nome": "Suco de Laranja",
+    "descricao": "Lata de suco de laranja",
+    "preco": 6.99
+  }
+]
